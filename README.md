@@ -2,5 +2,5 @@
 ```
 npm i
 npm run watch
-./dist/index.js
+node -r esm ./dist/index.js
 ```
